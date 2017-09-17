@@ -1,0 +1,16 @@
+H1 {margin-left: 20px;}
+
+H2 {margin-left: 40px;}
+
+H3 {margin-left: 60px;}
+
+H4 {margin: auto;}
+
+p {margin-left: 60px;}
+
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
